@@ -8,4 +8,4 @@ Build a simple app to hit the NY Times Most Popular Articles API and show a list
 * [Swift 5](https://github.com/apple/swift).
 
 ## How to build
-The project can be run using Xcode 10.2 and built/tested using the standard Xcode build (⌘B) and test (⌘U) commands.
+The project can be run using Xcode 10.3 and built/tested using the standard Xcode build (⌘B) and test (⌘U) commands.
